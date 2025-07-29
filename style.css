@@ -172,7 +172,7 @@ footer div ul ul{
     }
 }
 /* tab screen */
-@media (min-width:769px) and (max-width:1023px){
+@media (min-width:769px) and (max-width:1024px){
     section .header .row ul li button{
         background-color: orange;
     }
